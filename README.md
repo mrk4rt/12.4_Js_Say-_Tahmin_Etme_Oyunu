@@ -1,5 +1,3 @@
-# Proje için README içeriğini oluşturuyoruz.
-readme_content = """
 # Proje: Menü Tabanlı Uygulama
 
 ## Amaç
